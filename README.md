@@ -6,27 +6,17 @@ Calcy App is a simple yet powerful calculator web app designed for speed and eff
 Built with HTML, CSS, and JavaScript, it features a minimalistic UI, smooth interactions, and responsive design for an excellent user experience across all devices.
 
 ✨ Features
-➕ Addition, ➖ Subtraction, ✖️ Multiplication, ➗ Division
-
-🎹 Keyboard and On-Screen Button input
+ Addition, Subtraction,  Multiplication, Division
 
 📱 Responsive Layout — perfect for mobile, tablet, and desktop
 
-🚫 Error Handling for invalid inputs
-
 🎨 Clean, Minimal, and Elegant design
-
-
-
-
 
 
 📸 Visual Overview
  <p align="center">
   <img src="./src/calcy-app-screenshot.jpg" alt="Calcy App" alt="Calcy Screenshot" />
 </p>
-
-
 
 🚀 Getting Started
 Create a directory and move into it
