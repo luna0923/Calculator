@@ -1,12 +1,6 @@
 Calcy App
 A Fast, Responsive Calculator Web Application
 
-  <p align="center">
-  <img src="./src/calcy-app-screenshot.jpg" alt="Calcy App" width="400" />
-</p>
-
-
-
 🚀 Overview
 Calcy App is a simple yet powerful calculator web app designed for speed and efficiency.
 Built with HTML, CSS, and JavaScript, it features a minimalistic UI, smooth interactions, and responsive design for an excellent user experience across all devices.
@@ -22,14 +16,18 @@ Built with HTML, CSS, and JavaScript, it features a minimalistic UI, smooth inte
 
 🎨 Clean, Minimal, and Elegant design
 
-🛠️ Tech Stack
 
 
 
-(Optionally: React.js if used)
 
-📸 Screenshots
-<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/212723482-cd12ce8e-234b-4b6b-91d5-45752c82d546.png" alt="Calcy Screenshot" width="500" /> </p>
+
+📸 Visual Overview
+ <p align="center">
+  <img src="./src/calcy-app-screenshot.jpg" alt="Calcy App" alt="Calcy Screenshot" />
+</p>
+
+
+
 🚀 Getting Started
 Create a directory and move into it
 bash
@@ -71,7 +69,7 @@ npm run build
 # or
 yarn build
 🎉 Live Demo
-(Add your deployed site link here if available!)
+(https://calculator-8b8d4.web.app/)
 Example: Live Calcy App
 
 ❤️ Contributing
