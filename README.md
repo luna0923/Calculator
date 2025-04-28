@@ -1,7 +1,12 @@
 Calcy App
 A Fast, Responsive Calculator Web Application
 
-<p align="center"> <img src="assets/calci" alt="Calcy App" width="400" /> </p>
+  <p align="center">
+  <img src="./src/calcy-app-screenshot.jpg" alt="Calcy App" width="400" />
+</p>
+
+
+
 🚀 Overview
 Calcy App is a simple yet powerful calculator web app designed for speed and efficiency.
 Built with HTML, CSS, and JavaScript, it features a minimalistic UI, smooth interactions, and responsive design for an excellent user experience across all devices.
