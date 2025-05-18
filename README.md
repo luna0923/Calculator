@@ -34,3 +34,9 @@ It features a minimalistic user interface, smooth user interactions, and a respo
 ```bash
 git clone https://github.com/your-username/calci-app.git
 cd calci-app
+```
+### 2. Run the Repository
+
+```bash
+npm start
+```
