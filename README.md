@@ -1,70 +1,36 @@
-Calcy App
+# Calcy App
+
 A Fast, Responsive Calculator Web Application
 
-🚀 Overview
-Calcy App is a simple yet powerful calculator web app designed for speed and efficiency.
-Built with HTML, CSS, and JavaScript, it features a minimalistic UI, smooth interactions, and responsive design for an excellent user experience across all devices.
+---
 
-✨ Features
- Addition, Subtraction,  Multiplication, Division
+## Overview
 
-📱 Responsive Layout — perfect for mobile, tablet, and desktop
+Calcy App is a lightweight, high-performance calculator built with **HTML**, **CSS**, and **JavaScript**.  
+It features a minimalistic user interface, smooth user interactions, and a responsive design optimized for all device sizes — from mobile phones to desktops.
 
-🎨 Clean, Minimal, and Elegant design
+---
 
+## Features
 
-📸 Visual Overview
- <p align="center">
-  <img src="./src/calcy-app-screenshot.jpg" alt="Calcy App" alt="Calcy Screenshot" />
+- Basic arithmetic operations: Addition, Subtraction, Multiplication, and Division  
+- Responsive layout suitable for mobile, tablet, and desktop devices  
+- Clean, minimal, and elegant UI design  
+
+---
+
+## Visual Preview
+
+<p align="center">
+  <img src="./src/calcy-app-screenshot.jpg" alt="Calcy App Screenshot" width="500"/>
 </p>
 
-🚀 Getting Started
-Create a directory and move into it
-bash
-Copy
-Edit
-mkdir calci-app
-cd calci-app
-Clone and setup Calcy App
-bash
-Copy
-Edit
+---
+
+## Getting Started
+
+### 1. Clone the Repository
+
+```bash
 git clone https://github.com/your-username/calci-app.git
 cd calci-app
-Open the Application
-Open index.html directly in your preferred web browser.
-
-You can double-click or right-click → Open with Browser.
-
-🛠 Development Mode (Optional, if React/Webpack used)
-bash
-Copy
-Edit
-# Install dependencies
-npm install
-
-# Start the development server
-npm start
-# or
-yarn start
-The app will be available at: http://localhost:3000 🚀
-
-📦 Production Build
-Create a production-ready optimized build:
-
-bash
-Copy
-Edit
-npm run build
-# or
-yarn build
-🎉 Live Demo
-(https://calculator-8b8d4.web.app/)
-Example: Live Calcy App
-
-❤️ Contributing
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create.
-Feel free to fork the repo and submit a pull request!
-
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+%F0%9F%92%96;Happy+Calculating+with+Calcy+App!" alt="Typing SVG" /> </p>
-⚡ Happy Coding! ⚡
