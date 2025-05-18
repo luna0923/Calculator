@@ -5,17 +5,20 @@ A Fast, Responsive Calculator Web Application
 ---
 
 ## Overview
-
-Calcy App is a lightweight, high-performance calculator built with **HTML**, **CSS**, and **JavaScript**.  
+A simple calculator app built with React using useState for state management and basic CSS for styling. 
 It features a minimalistic user interface, smooth user interactions, and a responsive design optimized for all device sizes — from mobile phones to desktops.
 
 ---
 
 ## Features
 
-- Basic arithmetic operations: Addition, Subtraction, Multiplication, and Division  
-- Responsive layout suitable for mobile, tablet, and desktop devices  
-- Clean, minimal, and elegant UI design  
+- Responsive calculator UI 
+- Real-time state updates via React Hooks 
+- Clean and minimalist CSS styling 
+- Basic arithmetic support: `+`  `-` `*`  `/` 
+- Clear (`AC`) and Delete (`DE`) buttons
+- Result evaluation using JavaScript’s native `eval()` 
+
 
 ---
 
@@ -28,15 +31,10 @@ It features a minimalistic user interface, smooth user interactions, and a respo
 ---
 
 ## Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/calci-app.git
-cd calci-app
-```
-### 2. Run the Repository
+Clone the repo and run it locally:
 
 ```bash
+git clone https://github.com/your-username/react-calculator.git
+cd react-calci
+npm install
 npm start
-```
